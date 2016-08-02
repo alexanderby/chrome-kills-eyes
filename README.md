@@ -14,5 +14,5 @@ No issues are seemed in FireFox, it doesn't update canvas until the stylesheet i
 $ node server
 ```
 
-All the issues remain in Chrome 45.
+All the issues remain in Chrome 52.
 ![Chrome kiils your eyes](http://i.ytimg.com/vi/GstsvaYGwdc/maxresdefault.jpg "Chrome kiils your eyes")
